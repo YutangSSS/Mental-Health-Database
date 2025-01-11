@@ -2,7 +2,7 @@
 This is a database our group created for Database Design and development course which we drew ERD from scratch and created the database
 Designing the Entity-Relationship Diagram (ERD) for the Mental Health Resource Database for me is a combination of logical structuring, user-centric thinking, and integrated feedback in order to reduce redundancy.  Below is my reflection on how I approached this process and the reasoning behind key decisions.
 
-Challenages:
+Challenges:
 
 The first step was to understand the purpose of the database—improving accessibility to mental health resources for diverse users, including individuals seeking services, professionals referring clients, and organizations sharing resources. 
 
